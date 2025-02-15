@@ -1,2 +1,1 @@
-# Comandos.txt
-Comandos de git
+Mi primer repositorio curso
